@@ -13,8 +13,17 @@ A beautifully designed expense tracker app built with Flutter, offering a seamle
 
 ## Screenshots
 
-![Light Mode Screenshot](path-to-your-light-mode-screenshot)
-![Dark Mode Screenshot](path-to-your-dark-mode-screenshot)
+
+<img width="1470" alt="Screenshot 2024-10-18 at 11 58 24 PM" src="https://github.com/user-attachments/assets/afd6a3ec-72ba-429a-9997-91348642002e">
+
+<img width="480" alt="Screenshot 2024-10-18 at 11 58 42 PM" src="https://github.com/user-attachments/assets/baefc882-bc8e-4877-b60e-112ef40d1a27">
+
+<img width="480" alt="Screenshot 2024-10-18 at 11 58 57 PM" src="https://github.com/user-attachments/assets/5a84058b-cf65-4a03-bad1-e1e1c2fb84f2">
+
+<img width="480" alt="Screenshot 2024-10-18 at 11 59 10 PM" src="https://github.com/user-attachments/assets/753337b0-9662-432c-b295-3b9b5c9fdfbd">
+
+<img width="485" alt="Screenshot 2024-10-19 at 12 03 29 AM" src="https://github.com/user-attachments/assets/cc8ce645-d0d1-472e-a563-d46662877810">
+
 
 ## Installation
 
