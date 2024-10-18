@@ -18,7 +18,7 @@ void main() {
             foregroundColor: kColorScheme.primaryContainer),
         cardTheme: CardTheme(
           color: kColorScheme.secondaryContainer,
-          margin: EdgeInsets.symmetric(horizontal: 18, vertical: 8),
+          margin: const EdgeInsets.symmetric(horizontal: 18, vertical: 8),
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
@@ -32,7 +32,7 @@ void main() {
         ),
       ),
       themeMode: ThemeMode.system,
-      home: Expenses(),
+      home: const Expenses(),
     ),
   );
 }
