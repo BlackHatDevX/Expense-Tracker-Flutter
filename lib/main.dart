@@ -10,6 +10,7 @@ var kDarkColorScheme = ColorScheme.fromSeed(
 void main() {
   runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       darkTheme: ThemeData.dark().copyWith(colorScheme: kDarkColorScheme),
       theme: ThemeData(
         colorScheme: kColorScheme,
