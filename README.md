@@ -29,7 +29,7 @@ A beautifully designed expense tracker app built with Flutter, offering a seamle
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BlackHatDevX/expense_app.git
+   git clone https://github.com/BlackHatDevX//Expense-Tracker-Flutter.git
    ```
 2. Navigate to the project directory:
    ```bash
